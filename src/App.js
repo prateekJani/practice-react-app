@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import Federico from './Components/Federico/Federico'
+import Prateek from './Components/Prateek/Prateek';
 
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
           Learn React !!!
         </a>
 
-        <Federico />
+        <Prateek />
 
       </header>
     </div>
