@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import Prateek from './Components/Prateek/Prateek';
+import NewComponent from './Components/NewComponent/NewComponent';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         </a>
 
         <Prateek />
+        <NewComponent />
 
       </header>
     </div>
