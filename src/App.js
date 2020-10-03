@@ -4,7 +4,7 @@ import './App.css';
 
 import Prateek from './Components/Prateek/Prateek';
 import NewComponent from './Components/NewComponent/NewComponent';
-
+import ClassComponent from './Components/ClassComponent/ClassComponent';
 
 function App() {
   return (
@@ -26,7 +26,7 @@ function App() {
 
         <Prateek />
         <NewComponent />
-
+        <ClassComponent />
       </header>
     </div>
   );
